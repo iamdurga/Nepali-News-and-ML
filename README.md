@@ -19,5 +19,10 @@ All of the data used in this projects are available in [this drive folder](https
 ## Naive Bayes
 * Blog URL: [Classificaiton of Nepali News Using Naive Bayes](https://dataqoil.com/2022/05/07/nepali-news-classification-with-naive-bayes/)
 
+## Neural Networks
+
+## Deployment
+
+
 
 
